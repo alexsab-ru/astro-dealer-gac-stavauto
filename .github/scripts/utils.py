@@ -330,12 +330,14 @@ def convert_to_string(element):
 
 
 def avitoColor(color):
+    # Обязательно приводим к нижнему регистру, чтобы не было ошибок при сравнении
     mapping = {
         'бежевый': 'бежевый',
         'бордовый': 'бордовый',
         'белый': 'белый',
         '089/20 белый перламутр': 'белый',
         '070/20 белый перламутр': 'белый',
+        '058/11': 'белый',
         'голубой': 'голубой',
         'серо-голубой': 'голубой',
         'желтый': 'желтый',
@@ -344,6 +346,7 @@ def avitoColor(color):
         'золотой': 'золотой',
         'коричневый': 'коричневый',
         'красный': 'красный',
+        'ярко-алый': 'красный',
         'оранжевый': 'оранжевый',
         'пурпурный': 'пурпурный',
         'розовый': 'розовый',
@@ -360,6 +363,7 @@ def avitoColor(color):
         'черный': 'черный',
         'чёрный': 'черный',
         'черный/черный': 'черный',
+        'черный/черно-зеленый': 'черный',
     }
 
     # Приводим ключ к нижнему регистру для проверки
@@ -368,7 +372,7 @@ def avitoColor(color):
         return mapping[normalized_color].capitalize()
     else:
         # Логирование ошибки в файл
-        error_text = f"Не удается обработать цвет: {color}"
+        error_text = f"Не удается обработать цвет для Avito: <code>{color}</code>"
         with open('output.txt', 'a') as file:
             file.write(f"{error_text}\n")
         return color  # Возвращаем оригинальный ключ, если он не найден
@@ -573,16 +577,16 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     color = str(car_data.get('color', '')).capitalize()
     model = car_data.get('folder_id', '')
     brand = car_data.get('mark_id', '')
+    run = car_data.get('run', 0)
 
-    # Получаем folder и color_image для CDN
-    folder = get_folder(brand, model, vin)
+    # Получаем color_image для CDN
     color_image = get_color_filename(brand, model, color, vin)
 
     thumb = "https://cdn.alexsab.ru/errors/404.webp"
     # Проверка через CDN сервис
-    if folder and not config['skip_check_thumb']:
+    if not config['skip_check_thumb']:
         if color_image:
-            cdn_path = f"https://cdn.alexsab.ru/b/{brand.lower()}/img/models/{folder}/colors/{color_image}"
+            cdn_path = f"{color_image}"
             try:
                 response = requests.head(cdn_path)
                 if response.status_code == 200:
@@ -591,12 +595,12 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
                     # Если файл не найден в CDN, проверяем локальные файлы
                     errorText = f"\n<b>Не удалось найти файл на CDN</b>. Статус <b>{response.status_code}</b>\n<pre>{color_image}</pre>\n<a href='{cdn_path}'>{cdn_path}</a>"
                     print_message(errorText, 'error')
-                    thumb = check_local_files(brand, model, color, vin)
+                    # thumb = check_local_files(brand, model, color, vin)
             except requests.RequestException as e:
                 # В случае ошибки при проверке CDN, используем локальные файлы
                 errorText = f"\nОшибка при проверке CDN: {str(e)}"
                 print_message(errorText, 'error')
-                thumb = check_local_files(brand, model, color, vin)
+                # thumb = check_local_files(brand, model, color, vin)
 
     data = dict(car_data)  # Копируем все поля из car_data
     # Определяем порядок (order)
@@ -610,6 +614,7 @@ def create_file(car_data, filename, friendly_url, current_thumbs, sort_storage_d
     data['vin_hidden'] = vin_hidden
     data['color'] = color
     data['image'] = thumb
+    data['run'] = run
 
     # Корректно формируем total
     data['total'] = int(car_data.get('total', 1))
@@ -1043,7 +1048,7 @@ def get_breadcrumb(car, config):
 
 def get_title(car, config):
     """Генерирует title для автомобиля по шаблону (car - dict)."""
-    template = config.get('title_template') or 'Купить {{car.mark_id}} {{car.folder_id}} {{car.modification_id}} {{car.color}} у официального дилера в {{config.legal_city_where}}'
+    template = config.get('title_template') or 'Купить {{car.mark_id}} {{car.folder_id}} {{car.modification_id}} {{car.complectation_name}} {{car.color}} у официального дилера в {{config.legal_city_where}}'
     return render_template_string(template, car, config).strip()
 
 def get_description(car, config):
