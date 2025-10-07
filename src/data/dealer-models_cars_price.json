@@ -1,0 +1,20 @@
+[
+  {
+    "brand": "GAC",
+    "model": "GS3",
+    "price": 2249000,
+    "benefit": 550000
+  },
+  {
+    "brand": "GAC",
+    "model": "GS4",
+    "price": 2474000,
+    "benefit": 525000
+  },
+  {
+    "brand": "GAC",
+    "model": "GS8",
+    "price": 3499000,
+    "benefit": 1025000
+  }
+]
