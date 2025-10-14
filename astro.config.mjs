@@ -59,6 +59,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://gac.alexsab.ru',
+	site: 'https://gac-stavauto.alexsab.ru',
 	base: "/"
 });
