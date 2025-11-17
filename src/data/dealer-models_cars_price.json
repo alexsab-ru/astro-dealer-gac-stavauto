@@ -1,6 +1,12 @@
 [
   {
     "brand": "GAC",
+    "model": "Empow",
+    "price": 2719000,
+    "benefit": 500000
+  },
+  {
+    "brand": "GAC",
     "model": "GS4",
     "price": 2749000,
     "benefit": 450000
