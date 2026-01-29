@@ -1,14 +1,15 @@
 ---
-pubDate: 2025-03-27
+pubDate: 2026-01-01
+toDate: true
 caption:  Эффективные решения для бизнеса – специальные предложения GAC
-image: https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/thumb.webp
+image: https://cdn.alexsab.ru/specials/gac/for-business/thumb.webp
 title: Эффективные решения для бизнеса – специальные предложения GAC
 description: "Приобретайте автомобили GAC для бизнеса по специальным предложениям"
 breadcrumb: Эффективные решения для бизнеса – специальные предложения GAC
 h1: Эффективные решения для бизнеса – специальные предложения GAC
 ---
-export const DateFrom = "01.03.2025"
-export const DateTo = "31.03.2025"
+export const DateFrom = "01.01.2026"
+export const DateTo = "31.01.2026"
 
 import Button from '@/components/Button/Button.astro';
 import Timer from '@/components/Timer/Timer.astro';
@@ -20,17 +21,17 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 
 <picture>
 	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/banner.webp" />
-	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/thumb.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/gac/for-business/thumb.webp" />
 	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/banner.webp" class="" alt="Эффективные решения для бизнеса – специальные предложения GAC" />
 </picture>
 
-<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2025-03-31T23:59:59+04:00'/>
+<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2026-01-31T23:59:59+04:00'/>
 
 <section>
   <CardMedia imgPlacement="right">
-		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/gac-m8-programm.webp" alt="Программа «GAC M8 – специально для бизнеса»" />
+		<img slot="card-image" class="max-w-[12rem]" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/gac-m8-programm.webp" alt="Программа «GAC M8 – специально для бизнеса»" />
 		<Fragment slot="card-content">
-			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">Программа «GAC M8 – специально для бизнеса»</h2>
+			<h2 class="m-0! p-0! before:hidden text-2xl! lg:text-4xl!">Программа «GAC M8 – специально для бизнеса»</h2>
       <div>
         <p>Приобретайте GAC M8 для бизнеса по специальному предложению – скидка 12% при приобретении в лизинг через любую лизинговую компанию.<sup>1</sup></p>
         <p><strong>C {DateFrom} по {DateTo}.</strong></p>
@@ -50,14 +51,11 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 
 <section>
   <CardMedia>
-		<img slot="card-image" class="max-w-48" src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/yandex-go.webp" alt="Программа «GAC GS3 для партнеров Яндекс GO Такси»" />
+		<img slot="card-image" class="max-w-[12rem]" src="https://cdn.alexsab.ru/specials/gac/for-business/yandex-go.webp" alt="Программа «GAC GS3 для партнеров Яндекс GO Такси»" />
 		<Fragment slot="card-content">
-			<h2 class="!m-0 !p-0 before:hidden !text-2xl lg:!text-4xl">Программа «GAC GS3 для партнеров Яндекс GO Такси»</h2>
+			<h2 class="m-0! p-0! before:hidden text-2xl! lg:text-4xl!">Программа «GAC M8 для партнеров Яндекс Go Такси»*</h2>
       <div>
-        <p>Специальное предложение для партнеров Яндекс Go Такси – скидка на приобретение GAC GS3 в размере 12%!</p>
-        <p>GAC GS3 классифицирован для работы в Яндекс Go Такси в классе «Комфорт» в Москве и Санкт-Петербурге, и в «Комфорт+» в регионах.</p>
-        <p>Для получения скидки статус партнера нужно подтвердить через Яндекс GO Такси.</p>
-        <p><strong>C {DateFrom} по {DateTo}.</strong></p>
+        <p>Специальное предложение для партнеров Яндекс Go Такси – скидка на приобретение GAC M8 в комплектациях GX, GX Premium в размере до 35%! Премиальный минивэн GAC M8 классифицирован для работы в Яндекс Go Такси в тарифах «Business» и «Cruise» премиальной линейки Ultima Яндекс Go в Москве, Санкт-Петербурге и Сочи.</p>
       </div>
 			<div class="flex gap-3">
 				<Button 
@@ -74,10 +72,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 
 <section>
   <h2>Подробная информация</h2>
-  <p class="!text-sm"><sup>1</sup> Программа «<strong>GAC M8 – специально для бизнеса</strong>» суммируется с выгодами по иным действующим акциям, если в условиях акций не указано иное.</p>
-</section>
-
-<section>
-  <FeedbackForm title="Получить предложение" subtitle="Заполните онлайн-заявку на сайте. Менеджер свяжется с вами в ближайшее время" image="https://cdn.alexsab.ru/b/gac/img/special-offers/for-business/feedback.webp" />
+  <p class="text-sm!"><sup>1</sup> Программа «<strong>GAC M8 – специально для бизнеса</strong>» суммируется с выгодами по иным действующим акциям, если в условиях акций не указано иное.</p>
+  <p class="text-sm!">\* Программа <strong>«GAC M8 для партнеров Яндекс Go Такси»</strong> не суммируется с выгодами по иным действующим акциям. Для получения скидки статус партнера потребуется подтвердить через сервис Яндекс Go Такси.</p>
 </section>
 

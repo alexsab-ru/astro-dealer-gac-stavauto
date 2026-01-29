@@ -1,0 +1,57 @@
+---
+pubDate: 2025-06-01
+toDate: true
+caption:  Выгода до 300 000 рублей по программе Трейд-ин
+image: https://cdn.alexsab.ru/specials/gac/trade-in-calculator/thumb.webp
+title: Онлайн-оценка выкупа авто
+description: Рассчитайте остаточную стоимость своего автомобиля, чтобы подобрать выгодное предложение от GAC Trade-In. Обменяйте автомобиль с пробегом на новый GAC с помощью программы трейд-ин.
+breadcrumb: GAC в Trade-in
+h1: GAC в Trade-in
+---
+import {FIRST_DAY, LAST_DAY, MONTH, YEAR} from '@/js/utils/date';
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}г.`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
+
+import InfoSectionWithImage from '@/components/InfoSectionWithImage/InfoSectionWithImage.astro';
+import Button from '@/components/Button/Button.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import TradeInForm from '@/components/TradeInForm/TradeInForm.astro';
+ 
+<picture>
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/banner.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/gac/trade-in-calculator/thumb.webp" />
+	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/gac-v-trade-in/banner.webp" class="" alt="GAC в Trade-in" />
+</picture>
+
+<TradeInForm title="Онлайн-оценка" classes="my-20" />
+
+<div class="text-center my-20">
+		<h3>Появились вопросы? Будем рады вам помочь</h3>
+		<p class="text-gray-400">Получите бесплатную консультацию у эксперта по оценке автомобилей</p>
+	<Button 
+		classes="popup-link block w-fit !px-4 xl:!px-8 !py-2 xl:!py-3 !text-white !no-underline" 
+		url="#common-modal" 
+		title="Подробнее"
+		dataTitle="Заказать обратный звонок"
+		dataFormName={`Подробнее. Трейд-ин GAC`}
+	/>
+</div>
+
+<h2>Калькулятор трейд-ин GAC</h2>
+
+<strong>Как работает калькулятор трейд-ин GAC</strong><br />
+Калькулятор трейд-ин для расчета реальной стоимости подержанного автомобиля функционирует на основе актуальной базы данных по ценам на вторичном рынке. Онлайн-система оценки анализирует введенную пользователем информацию и сопоставляет её с аналогичными предложениями в регионе. Инструмент доступен круглосуточно на официальном сайте импортера.
+
+При расчете учитываются ключевые характеристики транспортного средства: модель, год выпуска, пробег в километрах, тип коробки передач и объем двигателя. Дополнительно система запрашивает информацию о состоянии кузова, салона и технических узлов.
+
+<strong>Преимущества использования калькулятора стоимости</strong><br />
+Сервис обеспечивает мгновенный расчет предварительной цены без необходимости посещения автосалона. Владелец получает ориентировочную сумму, которую может использовать для планирования бюджета на приобретение нового транспортного средства. Алгоритм учитывает актуальную рыночную конъюнктуру и корректирует результаты в соответствии с текущим спросом.
+
+Оценка через калькулятор занимает не более 5 минут, что существенно экономит время по сравнению с личным визитом к оценщику. Сервис помогает избежать заниженных предложений от частных покупателей.
+
+<strong>Условия обмена на новый GAC</strong><br />
+Предварительный расчет через калькулятор увеличивает шансы на получение максимально выгодного предложения при обмене. Клиенты, использующие онлайн-инструмент перед визитом в салон, получают приоритетное обслуживание и детальную консультацию по доступным программам трейд-ин.
+
+Предварительный расчет через калькулятор дает возможность клиенту оценить потенциальную выгоду до посещения автосалона и подготовиться к дальнейшим переговорам с менеджером.
