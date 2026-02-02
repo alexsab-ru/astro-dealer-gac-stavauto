@@ -8,8 +8,10 @@ description: "Приобретайте автомобили GAC для бизн�
 breadcrumb: Эффективные решения для бизнеса – специальные предложения GAC
 h1: Эффективные решения для бизнеса – специальные предложения GAC
 ---
-export const DateFrom = "01.01.2026"
-export const DateTo = "31.01.2026"
+import {FIRST_DAY, LAST_DAY, MONTH, YEAR, MONTH_PREPOSITIONAL, MONTH_NOMINATIVE, MONTH_GENITIVE} from '@/js/utils/date';
+
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}г.`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
 
 import Button from '@/components/Button/Button.astro';
 import Timer from '@/components/Timer/Timer.astro';
@@ -34,7 +36,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 			<h2 class="m-0! p-0! before:hidden text-2xl! lg:text-4xl!">Программа «GAC M8 – специально для бизнеса»</h2>
       <div>
         <p>Приобретайте GAC M8 для бизнеса по специальному предложению – скидка 12% при приобретении в лизинг через любую лизинговую компанию.<sup>1</sup></p>
-        <p><strong>C {DateFrom} по {DateTo}.</strong></p>
+        <p><strong>C {DateFrom} по {DateTo}</strong></p>
       </div>
 			<div class="flex gap-3">
 				<Button 

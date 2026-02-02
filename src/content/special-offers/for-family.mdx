@@ -7,8 +7,10 @@ description: "Программа «GAC M8 – комфорт бизнес-кла
 breadcrumb: Специальное предложение для комфорта вашей семьи
 h1: Специальное предложение для комфорта вашей семьи
 ---
-export const DateFrom = "01.01.2026"
-export const DateTo = "31.01.2026"
+import {FIRST_DAY, LAST_DAY, MONTH, YEAR, MONTH_PREPOSITIONAL, MONTH_NOMINATIVE, MONTH_GENITIVE} from '@/js/utils/date';
+
+export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}г.`;
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
 
 import Button from '@/components/Button/Button.astro';
 import Timer from '@/components/Timer/Timer.astro';
@@ -38,7 +40,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
         <ul>
           <li>Удостоверение многодетной семьи или паспорт РФ со страницами «дети» или свидетельства о рождении детей.</li>
         </ul>
-        <p><strong>C {DateFrom} по {DateTo}.</strong></p>
+        <p><strong>C {DateFrom} по {DateTo}</strong></p>
       </div>
 			<div class="flex gap-3">
 				<Button 
