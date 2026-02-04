@@ -11,6 +11,7 @@ import {FIRST_DAY, LAST_DAY, MONTH, YEAR, MONTH_PREPOSITIONAL, MONTH_NOMINATIVE,
 
 export const DateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}г.`;
 export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}г.`;
+export const DateToISO = `${YEAR}-${MONTH}-${LAST_DAY}T23:59:59+03:00`;
 
 import Button from '@/components/Button/Button.astro';
 import Timer from '@/components/Timer/Timer.astro';
@@ -25,7 +26,7 @@ import { phoneFormat } from '@/js/utils/numbers.format';
 	<img src="https://cdn.alexsab.ru/b/gac/img/special-offers/for-family/banner.webp" class="" alt="Специальное предложение для комфорта вашей семьи" />
 </picture>
 
-<Timer subtitle='До конца акции' btnName='Получить предложение' endtime='2026-01-31T23:59:59+04:00'/>
+<Timer subtitle='До конца акции' btnName='Получить предложение' endtime={DateToISO}/>
 
 <section>
   <CardMedia imgPlacement="right">
