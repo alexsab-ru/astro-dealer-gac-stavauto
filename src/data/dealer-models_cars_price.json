@@ -2,20 +2,20 @@
   {
     "brand": "Gac",
     "model": "Empow",
-    "price": 2819000,
-    "benefit": 500000
-  },
-  {
-    "brand": "Gac",
-    "model": "GS4",
-    "price": 2999000,
+    "price": 3019000,
     "benefit": 300000
   },
   {
     "brand": "Gac",
+    "model": "GS4",
+    "price": 2899000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Gac",
     "model": "GS8",
-    "price": 3699000,
-    "benefit": 700000
+    "price": 3899000,
+    "benefit": 500000
   },
   {
     "brand": "Gac",
