@@ -3,13 +3,13 @@ import Layout from '@/layouts/Layout.astro';
 import Button from '@/components/Button/Button.astro';
 import { Icon } from 'astro-icon/components';
 import { phoneFormat } from '@/js/utils/numbers.format';
-import settings from '@/data/settings.json';
+import settings from '@/data/site/settings.json';
 const { site_name, legal_city_where, phone_common } = settings;
 const bannerImg = 'https://cdn.alexsab.ru/b/gac/img/service-and-warranty-banner.webp';
 
 import { files } from './files.json';
 const { warrantyFiles, servicesFiles, archivesFiles } = files;
-import models from '@/data/models.json';
+import models from '@/data/site/models.json';
 ---
 
 <Layout
