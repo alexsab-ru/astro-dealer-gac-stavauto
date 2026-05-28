@@ -19,6 +19,12 @@
   },
   {
     "brand": "Gac",
+    "model": "Эм 8 / M8",
+    "price": 6549999,
+    "benefit": 200000
+  },
+  {
+    "brand": "Gac",
     "model": "Эс 7 / S7",
     "price": 5699000,
     "benefit": 350000
