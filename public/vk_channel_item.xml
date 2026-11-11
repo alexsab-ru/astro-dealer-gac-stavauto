@@ -338,50 +338,50 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJF3S86T1000701</id>
-    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-blue-2026/</link>
+    <id>LMGJF3S86T1000925</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-white-2026/</link>
     <brand>Gac</brand>
     <model>S9</model>
     <year>2026</year>
     <title>Gac S9 SX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S86T1000701/0/full.webp?v=91aa28fe97f6</image_link>
-    <price>7099000 RUB</price>
-    <sale_price>6799000 RUB</sale_price>
-    <min_price>6799000 RUB</min_price>
-    <max_price>7099000 RUB</max_price>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S86T1000925/0/full.webp?v=f35b81e997b3</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Синий</exterior_color>
+    <exterior_color>Белый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
-    <vin>LMGJF3S86T1000701</vin>
+    <vin>LMGJF3S86T1000925</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJF3S86T1000702</id>
-    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-blue-2026/</link>
+    <id>LMGJF3S86T1000926</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-white-2026/</link>
     <brand>Gac</brand>
     <model>S9</model>
     <year>2026</year>
     <title>Gac S9 SX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S86T1000702/0/full.webp?v=91aa28fe97f6</image_link>
-    <price>7099000 RUB</price>
-    <sale_price>6799000 RUB</sale_price>
-    <min_price>6799000 RUB</min_price>
-    <max_price>7099000 RUB</max_price>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S86T1000926/0/full.webp?v=f35b81e997b3</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Синий</exterior_color>
+    <exterior_color>Белый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
-    <vin>LMGJF3S86T1000702</vin>
+    <vin>LMGJF3S86T1000926</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -430,6 +430,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LMGJF3S86T1000988</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S8XT1001141</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S8XT1001141/0/full.webp?v=82a68c0b7d41</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S8XT1001141</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S8XT1001142</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S8XT1001142/0/full.webp?v=82a68c0b7d41</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S8XT1001142</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -536,7 +584,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066628/0/full.webp?v=ff68e17cfe6a</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G81T1066975/0/full.webp?v=a6dbf3947a5d</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -560,7 +608,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066628/0/full.webp?v=ff68e17cfe6a</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G81T1066976/0/full.webp?v=a6dbf3947a5d</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -776,7 +824,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G84T1065318/0/full.webp?v=65443256c429</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -800,7 +848,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G84T1065319/0/full.webp?v=65443256c429</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -872,7 +920,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G84T1065319/0/full.webp?v=65443256c429</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -896,7 +944,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G84T1065319/0/full.webp?v=65443256c429</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -1064,7 +1112,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G8XT1066215/0/full.webp?v=ed1545ecfdc5</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -1088,7 +1136,7 @@
     <model>GS8, II</model>
     <year>2026</year>
     <title>Gac GS8, II GX Premium 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G83T1066851/0/full.webp?v=35eb17aab3a2</image_link>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G8XT1066216/0/full.webp?v=ed1545ecfdc5</image_link>
     <price>5349000 RUB</price>
     <sale_price>4749000 RUB</sale_price>
     <min_price>4749000 RUB</min_price>
@@ -1150,6 +1198,54 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LMGJU3G8XT1068676</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGNC3S80T1002342</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s7-15hyb-at-340-hp-4wd-sx-premium-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>S7</model>
+    <year>2026</year>
+    <title>Gac S7 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGNC3S80T1002342/0/full.webp?v=a0b6c13f6726</image_link>
+    <price>6399000 RUB</price>
+    <sale_price>6199000 RUB</sale_price>
+    <min_price>6199000 RUB</min_price>
+    <max_price>6399000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S7, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGNC3S80T1002342</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGNC3S80T1002343</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s7-15hyb-at-340-hp-4wd-sx-premium-gray-2026/</link>
+    <brand>Gac</brand>
+    <model>S7</model>
+    <year>2026</year>
+    <title>Gac S7 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGNC3S80T1002343/0/full.webp?v=a0b6c13f6726</image_link>
+    <price>6399000 RUB</price>
+    <sale_price>6199000 RUB</sale_price>
+    <min_price>6199000 RUB</min_price>
+    <max_price>6399000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S7, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGNC3S80T1002343</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
