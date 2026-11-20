@@ -650,6 +650,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001123/1/full.webp?v=1487b907a4e7</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001123/2/full.webp?v=11aaccd3ac06</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001123/3/full.webp?v=21454c7d2e06</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001123/4/full.webp?v=83a11ee59e81</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001123/5/full.webp?v=75927d46c9b3</image>
       </images>
     </car>
     <car>
@@ -673,6 +675,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001124/1/full.webp?v=1487b907a4e7</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001124/2/full.webp?v=11aaccd3ac06</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001124/3/full.webp?v=21454c7d2e06</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001124/4/full.webp?v=83a11ee59e81</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S88T1001124/5/full.webp?v=75927d46c9b3</image>
       </images>
     </car>
     <car>
@@ -762,6 +766,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066692/1/full.webp?v=9f5889c0c488</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066692/2/full.webp?v=eeadaace2535</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066692/3/full.webp?v=faf87b3974cf</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066692/4/full.webp?v=93909d078886</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066692/5/full.webp?v=c19b0955af1b</image>
       </images>
     </car>
     <car>
@@ -785,6 +791,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066693/1/full.webp?v=9f5889c0c488</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066693/2/full.webp?v=eeadaace2535</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066693/3/full.webp?v=faf87b3974cf</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066693/4/full.webp?v=93909d078886</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G80T1066693/5/full.webp?v=c19b0955af1b</image>
       </images>
     </car>
     <car>
@@ -1284,6 +1292,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064243/1/full.webp?v=c86e136996ac</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064243/2/full.webp?v=10c6ed51fff8</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064243/3/full.webp?v=f55ec8405fb0</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064243/4/full.webp?v=8b363da664aa</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064243/5/full.webp?v=7bd3bffe6465</image>
       </images>
     </car>
     <car>
@@ -1307,6 +1317,8 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064244/1/full.webp?v=c86e136996ac</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064244/2/full.webp?v=10c6ed51fff8</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064244/3/full.webp?v=f55ec8405fb0</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064244/4/full.webp?v=8b363da664aa</image>
+        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G85T1064244/5/full.webp?v=7bd3bffe6465</image>
       </images>
     </car>
     <car>
@@ -1515,72 +1527,6 @@
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G88T1065629/13/full.webp?v=9ddb4a0bac59</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G88T1065629/14/full.webp?v=0d562877daf3</image>
         <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G88T1065629/15/full.webp?v=7b334df26584</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G89T1062656</unique_id>
-      <url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G89T1062656</vin>
-      <price>4949000</price>
-      <sale_price>4349000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/0/full.webp?v=7c8da431bdf2</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/1/full.webp?v=a0699b58109d</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/2/full.webp?v=34cef36508a5</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/3/full.webp?v=556933177ab8</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/4/full.webp?v=ffea187dc35a</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/5/full.webp?v=520cbc280b3f</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/6/full.webp?v=bd01ead8699a</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/7/full.webp?v=fc99e3d90c10</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/8/full.webp?v=b1d167a45d58</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/9/full.webp?v=6d7255f32e54</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/10/full.webp?v=5f76e343bef1</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/11/full.webp?v=6d9c27ef82e2</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/12/full.webp?v=71b62a4a0530</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/13/full.webp?v=e762422a3cff</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>LMGJU3G89T1062657</unique_id>
-      <url>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-gray-2026/</url>
-      <mark_id>Gac</mark_id>
-      <folder_id>GS8, II</folder_id>
-      <year>2026</year>
-      <vin>LMGJU3G89T1062657</vin>
-      <price>4949000</price>
-      <sale_price>4349000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/0/full.webp?v=7c8da431bdf2</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/1/full.webp?v=a0699b58109d</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/2/full.webp?v=34cef36508a5</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/3/full.webp?v=556933177ab8</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/4/full.webp?v=ffea187dc35a</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/5/full.webp?v=520cbc280b3f</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/6/full.webp?v=bd01ead8699a</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/7/full.webp?v=fc99e3d90c10</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/8/full.webp?v=b1d167a45d58</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/9/full.webp?v=6d7255f32e54</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/10/full.webp?v=5f76e343bef1</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/11/full.webp?v=6d9c27ef82e2</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/12/full.webp?v=71b62a4a0530</image>
-        <image>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/13/full.webp?v=e762422a3cff</image>
       </images>
     </car>
     <car>

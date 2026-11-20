@@ -1106,54 +1106,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LMGJU3G89T1062656</id>
-    <link>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-gray-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062656/0/full.webp?v=7c8da431bdf2</image_link>
-    <price>4949000 RUB</price>
-    <sale_price>4349000 RUB</sale_price>
-    <min_price>4349000 RUB</min_price>
-    <max_price>4949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G89T1062656</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>LMGJU3G89T1062657</id>
-    <link>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gt-gray-2026/</link>
-    <brand>Gac</brand>
-    <model>GS8, II</model>
-    <year>2026</year>
-    <title>Gac GS8, II GT 2026</title>
-    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G89T1062657/0/full.webp?v=7c8da431bdf2</image_link>
-    <price>4949000 RUB</price>
-    <sale_price>4349000 RUB</sale_price>
-    <min_price>4349000 RUB</min_price>
-    <max_price>4949000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Gac GS8, II, GT, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>LMGJU3G89T1062657</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LMGJU3G89T1067596</id>
     <link>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-black-2026/</link>
     <brand>Gac</brand>
