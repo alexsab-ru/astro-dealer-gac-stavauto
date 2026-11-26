@@ -290,6 +290,54 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LMGJF3S83T1001420</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S83T1000804/0/full.webp?v=00ce9e986171</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S83T1001420</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJF3S83T1001421</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
+    <brand>Gac</brand>
+    <model>S9</model>
+    <year>2026</year>
+    <title>Gac S9 SX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJF3S83T1000804/0/full.webp?v=00ce9e986171</image_link>
+    <price>6899000 RUB</price>
+    <sale_price>6599000 RUB</sale_price>
+    <min_price>6599000 RUB</min_price>
+    <max_price>6899000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac S9, SX Premium, 1.5hyb AT (340 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJF3S83T1001421</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LMGJF3S85T1000530</id>
     <link>https://gac-stavauto.alexsab.ru/cars/gac-s9-15hyb-at-340-hp-4wd-sx-premium-black-2026/</link>
     <brand>Gac</brand>
@@ -911,6 +959,54 @@
     <body_style>suv</body_style>
     <vin>LMGJU3G86T1067413</vin>
     <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G87T1066012</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G81T1066976/0/full.webp?v=a6dbf3947a5d</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4749000 RUB</sale_price>
+    <min_price>4749000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G87T1066012</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJU3G87T1066013</id>
+    <link>https://gac-stavauto.alexsab.ru/cars/gac-gs8-ii-dragon-20-at-231-hp-4wd-gx-premium-white-2026/</link>
+    <brand>Gac</brand>
+    <model>GS8, II</model>
+    <year>2026</year>
+    <title>Gac GS8, II GX Premium 2026</title>
+    <image_link>https://img.upspace.ru/cars/gac-stavauto.alexsab.ru/new/LMGJU3G81T1066976/0/full.webp?v=a6dbf3947a5d</image_link>
+    <price>5349000 RUB</price>
+    <sale_price>4749000 RUB</sale_price>
+    <min_price>4749000 RUB</min_price>
+    <max_price>5349000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Gac GS8, II, GX Premium, Dragon 2.0 AT (231 л.с.) 4WD, 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJU3G87T1066013</vin>
+    <availability>на заказ</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
